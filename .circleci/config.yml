@@ -19,5 +19,7 @@ jobs:
           command: dotnet build helloworld
       - run:
           name: Run project 
-          command: dotnet run
+          command: |
+          cd helloworld
+          dotnet run
 
