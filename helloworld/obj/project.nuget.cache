@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "aJ6EcV8N8vRMYzGCeGQjO3RiRemYMps8eLdxn6tQLWd4DiHbLRZ4NHbGYqjulFjqso6UQujPG+VIIjdgRJ1gfw==",
+  "dgSpecHash": "vTj6Nn64kLGxPCf1YaXTveZrSltU00F5tNzqyUo6qEVxzAtVRBRXM9tMoF782beBK8fZxXXXYxQ/UDovEwiKmw==",
   "success": true,
   "projectFilePath": "/home/firuza/Desktop/study/dotnetcircleci/ASP-NET-CircleCI/helloworld/helloworld.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/home/firuza/.nuget/packages/microsoft.netcore.app.ref/6.0.15/microsoft.netcore.app.ref.6.0.15.nupkg.sha512",
+    "/home/firuza/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.15/microsoft.aspnetcore.app.ref.6.0.15.nupkg.sha512",
+    "/home/firuza/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.15/microsoft.netcore.app.host.linux-x64.6.0.15.nupkg.sha512"
+  ],
   "logs": []
 }
