@@ -1,0 +1,15 @@
+/home/firuza/Desktop/study/dotnetcircleci/ASP-NET-CircleCI/helloworld/bin/Debug/net7.0/helloworld
+/home/firuza/Desktop/study/dotnetcircleci/ASP-NET-CircleCI/helloworld/bin/Debug/net7.0/helloworld.deps.json
+/home/firuza/Desktop/study/dotnetcircleci/ASP-NET-CircleCI/helloworld/bin/Debug/net7.0/helloworld.runtimeconfig.json
+/home/firuza/Desktop/study/dotnetcircleci/ASP-NET-CircleCI/helloworld/bin/Debug/net7.0/helloworld.dll
+/home/firuza/Desktop/study/dotnetcircleci/ASP-NET-CircleCI/helloworld/bin/Debug/net7.0/helloworld.pdb
+/home/firuza/Desktop/study/dotnetcircleci/ASP-NET-CircleCI/helloworld/obj/Debug/net7.0/helloworld.csproj.AssemblyReference.cache
+/home/firuza/Desktop/study/dotnetcircleci/ASP-NET-CircleCI/helloworld/obj/Debug/net7.0/helloworld.GeneratedMSBuildEditorConfig.editorconfig
+/home/firuza/Desktop/study/dotnetcircleci/ASP-NET-CircleCI/helloworld/obj/Debug/net7.0/helloworld.AssemblyInfoInputs.cache
+/home/firuza/Desktop/study/dotnetcircleci/ASP-NET-CircleCI/helloworld/obj/Debug/net7.0/helloworld.AssemblyInfo.cs
+/home/firuza/Desktop/study/dotnetcircleci/ASP-NET-CircleCI/helloworld/obj/Debug/net7.0/helloworld.csproj.CoreCompileInputs.cache
+/home/firuza/Desktop/study/dotnetcircleci/ASP-NET-CircleCI/helloworld/obj/Debug/net7.0/helloworld.dll
+/home/firuza/Desktop/study/dotnetcircleci/ASP-NET-CircleCI/helloworld/obj/Debug/net7.0/refint/helloworld.dll
+/home/firuza/Desktop/study/dotnetcircleci/ASP-NET-CircleCI/helloworld/obj/Debug/net7.0/helloworld.pdb
+/home/firuza/Desktop/study/dotnetcircleci/ASP-NET-CircleCI/helloworld/obj/Debug/net7.0/helloworld.genruntimeconfig.cache
+/home/firuza/Desktop/study/dotnetcircleci/ASP-NET-CircleCI/helloworld/obj/Debug/net7.0/ref/helloworld.dll
