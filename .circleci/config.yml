@@ -17,4 +17,7 @@ jobs:
       - run:
           name: Build project 
           command: dotnet build helloworld
+      - run:
+          name: Run project 
+          command: dotnet run
 
